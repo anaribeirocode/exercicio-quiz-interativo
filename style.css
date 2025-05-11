@@ -96,17 +96,3 @@ button:hover {
     justify-content: center;
     text-align: center;
 }
-
-footer {
-    background: #ffffff;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    font-weight: bold;
-}
-
-.footer {
-    display: flex;
-    justify-content: center;
-    padding: 10px 8% 5px 8%;
-}
